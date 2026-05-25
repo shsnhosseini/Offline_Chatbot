@@ -50,7 +50,7 @@ The following folders are **not included in this repository** due to their large
 - Contains the Flan-T5-Small language model
 - Used for generating contextual answers
 
-**To use this project**, you'll need to download these models from https://huggingface.co. 
+**To use this project**, you'll need to download these models from [HuggingFace](https://huggingface.co). 
 
 ## Usage
 
@@ -90,4 +90,3 @@ The application will open in your browser at `http://localhost:8501`
 
 **Q: Elasticsearch connection error**
 - Verify Elasticsearch is running on `http://localhost:9200`
-- Use `curl http://localhost:9200` to check connectivity

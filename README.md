@@ -9,7 +9,7 @@ An intelligent, fully offline chatbot application that enables you to upload PDF
 - 🤖 **Advanced NLP**: Uses state-of-the-art transformer models for embeddings and text generation
 - ⚡ **Fast Similarity Search**: Powered by Elasticsearch for efficient vector-based retrieval
 - **Answers**: Flan-T5-Small model generates contextual answers based on PDF content
-- **GPU Support**: Automatically uses a GPU when available, otherwise defaults to the CPU.
+- **GPU Support**: Automatically uses a GPU when available, otherwise defaults to the CPU 
 
 ## Demo
 

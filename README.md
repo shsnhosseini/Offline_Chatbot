@@ -92,4 +92,4 @@ The application will open in your browser at `http://localhost:8501`
 - Verify Elasticsearch is running on `http://localhost:9200`
 
 
-Give a ⭐️ if you like this project!
+If you like this project, please give it a ⭐️!
